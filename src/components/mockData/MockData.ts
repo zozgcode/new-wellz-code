@@ -6,7 +6,7 @@ export const mockAccounts: Account[] = [
     holder: {
       firstName: 'James',
       lastName: 'Radford',
-      jointNames: 'Anthony Adrian & Thomas Work',
+      jointNames: '',
       username: 'sample1',
       password: 'sample1',
     },
